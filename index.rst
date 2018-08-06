@@ -3,13 +3,33 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenue dans les docs pour Iota !
+Docs pour Iota
 ================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   nouveau
+
+.. _wiki-docs:
+
+.. toctree::
+   :maxdepht: 2
+   :caption: Aide pour les commandes
+
+   sticker
+   pay
+   network
+   karma
+
+.. _bonus-docs:
+
+.. toctree::
+   :maxdepht: 2
+   :caption: En bonus...
+
+   fonctionnement
+   faq
 
 
 Indices and tables

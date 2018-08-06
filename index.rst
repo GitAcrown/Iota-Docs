@@ -10,24 +10,24 @@ Bienvenue sur les docs !
    :maxdepth: 1
    :caption: General
 
-   intro
-   nouveau
+   general/intro
+   general/nouveau
 
 .. toctree::
    :maxdepht: 1
    :caption: Aide pour les commandes
 
-   sticker
-   pay
-   network
-   karma
+   wiki/sticker
+   wiki/pay
+   wiki/network
+   wiki/karma
 
 .. toctree::
    :maxdepht: 1
    :caption: En savoir plus
 
-   fonctionnement
-   faq
+   plus/fonctionnement
+   plus/faq
 
 
 Indices and tables

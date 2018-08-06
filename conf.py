@@ -98,6 +98,8 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+html_logo = 'img/docs_logo.png'
+
 
 # -- Options for HTMLHelp output ---------------------------------------------
 

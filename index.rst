@@ -3,12 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Docs pour Iota
+Bienvenue sur les docs !
 ================================
-
-.. image:: https://i.imgur.com/t6zfR6L.png
-    :alt: Translation state
-    :align: center
 
 .. toctree::
    :maxdepth: 1

@@ -6,15 +6,19 @@
 Docs pour Iota
 ================================
 
-.. toctree::
-   :maxdepth: 2
+.. image:: https://i.imgur.com/t6zfR6L.png
+    :alt: Translation state
+    :align: center
 
+.. toctree::
+   :maxdepth: 1
+   :caption: General
+
+   intro
    nouveau
 
-.. _wiki-docs:
-
 .. toctree::
-   :maxdepht: 2
+   :maxdepht: 1
    :caption: Aide pour les commandes
 
    sticker
@@ -22,11 +26,9 @@ Docs pour Iota
    network
    karma
 
-.. _bonus-docs:
-
 .. toctree::
-   :maxdepht: 2
-   :caption: En bonus...
+   :maxdepht: 1
+   :caption: En savoir plus
 
    fonctionnement
    faq
